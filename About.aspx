@@ -2,7 +2,7 @@
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <h2><%: Title %>.</h2>
-    <h3>Testttttttttttttttt5555555</h3>
+    <h3>1+1=2</h3>
     <p>-- We are CPLand --</p>
     <p>Use this area to provide additional information.</p>
 </asp:Content>
